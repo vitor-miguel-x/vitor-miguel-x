@@ -1,16 +1,22 @@
-## Hi there 👋
+## Vitor Miguel 👨‍💻
 
-<!--
-**vitor-miguel-x/vitor-miguel-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Sistemas | Focado em aplicações Web e Mobile.
 
-Here are some ideas to get you started:
+### 🛠️ Minhas Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🚀 Projetos Recentes
+- Desenvolvimento de interfaces modernas para web com React e Tailwind.
+- Criação de aplicativos Android utilizando Kotlin e Jetpack Compose.
+- Experimentos com layouts e fluxos em realidade virtual/aumentada.
+
+### 📈 Estatísticas do GitHub
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitor-miguel-x&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)](https://github.com/vitor-miguel-x)
+
+### 📫 Contato
+[LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI) | [E-mail](mailto:SEU_EMAIL_AQUI)
