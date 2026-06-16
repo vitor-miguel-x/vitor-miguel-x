@@ -34,4 +34,4 @@ O layout abaixo organiza os gráficos de forma compacta e utiliza o tema `dark` 
 </table>
 
 ### 📫 Contato
-[LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI) | [E-mail](mailto:SEU_EMAIL_AQUI)
+[LinkedIn](https://www.linkedin.com/in/vitor-miguel-673806350/) | [E-mail](vitormiguel.school@gmail.com)
