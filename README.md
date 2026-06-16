@@ -19,4 +19,4 @@ Desenvolvedor de Sistemas | Focado em aplicações Web e Mobile.
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitor-miguel-x&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)](https://github.com/vitor-miguel-x)
 
 ### 📫 Contato
-[LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI) | [E-mail](mailto:SEU_EMAIL_AQUI)
+[LinkedIn](https://www.linkedin.com/in/vitor-miguel-673806350/) | [E-mail](vitormiguel.school@gmail.com)
